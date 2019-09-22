@@ -61,7 +61,7 @@ Learning Android Animation
 * [https://www.slideshare.net/hagikuratakeshi/deep-dive-into-motionlayout](https://www.slideshare.net/hagikuratakeshi/deep-dive-into-motionlayout)
 * [https://riggaroo.co.za/android-motionlayout-tutorial-collapsing-view/](https://riggaroo.co.za/android-motionlayout-tutorial-collapsing-view/)
 * [https://medium.com/google-developers/introduction-to-motionlayout-part-i-29208674b10d](https://medium.com/google-developers/introduction-to-motionlayout-part-i-29208674b10d)
-* 
+* [https://medium.com/google-developers/introduction-to-motionlayout-part-ii-a31acc084f59](https://medium.com/google-developers/introduction-to-motionlayout-part-ii-a31acc084f59)
 
 
 
